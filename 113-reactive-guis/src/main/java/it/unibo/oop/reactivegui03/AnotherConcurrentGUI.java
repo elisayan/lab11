@@ -67,7 +67,6 @@ public final class AnotherConcurrentGUI extends JFrame {
                 stop.setEnabled(false);
                 down.setEnabled(false);
                 up.setEnabled(false);
-                System.out.println("ciao stop");
             }
             
         });
